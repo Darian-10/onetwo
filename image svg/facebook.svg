@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="337" height="103" viewBox="0 0 337 103">
+  <g id="Group_7" data-name="Group 7" transform="translate(-566 -2059.301)">
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="103" height="103" rx="22" transform="translate(566 2059.301)" fill="#2b2b2b"/>
+    <path id="facebook-f" d="M48.779,29.1l1.437-9.362H41.233V13.66c0-2.561,1.255-5.058,5.278-5.058h4.084V.632A49.8,49.8,0,0,0,43.346,0c-7.4,0-12.233,4.484-12.233,12.6v7.135H22.89V29.1h8.223V51.728h10.12V29.1Z" transform="translate(580.414 2084.834)" fill="#1976d2"/>
+    <text id="Facebook" transform="translate(707 2125.301)" fill="#1976d2" font-size="43" font-family="Gilroy-Black, Gilroy" font-weight="800"><tspan x="0" y="0">Facebook</tspan></text>
+  </g>
+</svg>

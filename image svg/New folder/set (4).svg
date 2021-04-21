@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="187" height="187" viewBox="0 0 187 187">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.25" y1="0.5" x2="0.826" y2="-0.119" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b0b0b0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="Ellipse_7" x="0" y="0" width="187" height="187" filterUnits="userSpaceOnUse">
+      <feOffset dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#b0b0b0" flood-opacity="0.388"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_12" data-name="Group 12" transform="translate(-647 -2758)">
+    <g transform="matrix(1, 0, 0, 1, 647, 2758)" filter="url(#Ellipse_7)">
+      <circle id="Ellipse_7-2" data-name="Ellipse 7" cx="33.5" cy="33.5" r="33.5" transform="translate(60 41)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="user" d="M20.962,20.321c-1.918,0-2.841,1.07-5.989,1.07s-4.064-1.07-5.989-1.07A8.986,8.986,0,0,0,0,29.3v1.711a3.209,3.209,0,0,0,3.209,3.209H26.738a3.209,3.209,0,0,0,3.209-3.209V29.3A8.986,8.986,0,0,0,20.962,20.321Zm5.775,10.7H3.209V29.3a5.785,5.785,0,0,1,5.775-5.775c.976,0,2.56,1.07,5.989,1.07,3.456,0,5.007-1.07,5.989-1.07A5.785,5.785,0,0,1,26.738,29.3ZM14.973,19.251A9.626,9.626,0,1,0,5.348,9.626,9.628,9.628,0,0,0,14.973,19.251Zm0-16.043A6.417,6.417,0,1,1,8.556,9.626,6.427,6.427,0,0,1,14.973,3.209Z" transform="translate(726 2815)"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="235" height="104" viewBox="0 0 235 104">
+  <g id="Group_8" data-name="Group 8" transform="translate(-1161 -2058.301)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="103" height="104" rx="22" transform="translate(1161 2058.301)" fill="#2b2b2b"/>
+    <path id="plus" d="M42.5,49.979H27.786V35.269A3.269,3.269,0,0,0,24.517,32H21.248a3.269,3.269,0,0,0-3.269,3.269v14.71H3.269A3.269,3.269,0,0,0,0,53.248v3.269a3.269,3.269,0,0,0,3.269,3.269h14.71V74.5a3.269,3.269,0,0,0,3.269,3.269h3.269A3.269,3.269,0,0,0,27.786,74.5V59.786H42.5a3.269,3.269,0,0,0,3.269-3.269V53.248A3.269,3.269,0,0,0,42.5,49.979Z" transform="translate(1190.016 2055.719)" fill="#c9c9c9"/>
+    <text id="Soon" transform="translate(1295 2125.301)" fill="#c9c9c9" font-size="43" font-family="Gilroy-Black, Gilroy" font-weight="800"><tspan x="0" y="0">Soon</tspan></text>
+  </g>
+</svg>
